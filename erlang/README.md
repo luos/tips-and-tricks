@@ -1,6 +1,6 @@
-# Tips and Tricks for Erlang.mk
+# Tips and Tricks for Erlang
 
-## Common Tests
+## Common Test
 
 ### Run CT tests in Verbose mode
 
