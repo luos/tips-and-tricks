@@ -16,7 +16,7 @@ https://docs.oracle.com/cd/E36784_01/html/E36870/ct-run-1.html
 
 ## Erlang.mk 
 
-### Erlang - Running Erlang.mk in verbose debug output mode
+### Running Erlang.mk in verbose debug output mode
 
 Sometimes it is necessary to debug how Erlang MK does what it does. 
 
