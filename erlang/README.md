@@ -38,7 +38,8 @@ lists:flatten([a, [b, [c]]]).
 ```
 
 Instead, something like this can be used: 
-```
+
+```erlang
 flat_one(List) -> lists:flatmap( fun(L) -> L end, List).
 
 flat_one([a, [b, [c]]]).
